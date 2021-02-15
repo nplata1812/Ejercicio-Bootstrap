@@ -1,0 +1,36 @@
+#banner {
+  background-color: rgb(109, 62, 30);
+  height: 3rem;
+  text-align: center;
+  color: white;
+}
+
+#menu1 {
+  background-color: orange;
+}
+#topMenu {
+  background-color: rgb(187, 110, 99);
+  text-align: center;
+}
+
+.mainContent {
+  height: 5rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+#photo {
+  background-color: rgb(154, 154, 207);
+}
+#photo2 {
+  background-color: rgb(218, 120, 139);
+}
+
+#footer {
+  background-color: rgb(109, 62, 30);
+  height: 2rem;
+  color: white;
+  text-align: center;
+}
